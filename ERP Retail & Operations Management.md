@@ -1,4 +1,4 @@
-# CoreOps ERP — Retail & Operations Management Suite
+# ERP Retail & Operations Management Suite
 _Optimizing operational workflows for B2B retail environments._
 
 ---
