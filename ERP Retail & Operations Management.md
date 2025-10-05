@@ -4,8 +4,8 @@ _Optimizing operational workflows for B2B retail environments._
 ---
 
 ## 🧭 Context
-- CoreOps ERP was developed to automate and centralize retail operations — covering purchases, inventory, and sales across their warehouses.  
-- It serves distributors and retail clients managing high-volume transactions.
+- ERP product was developed to automate and centralize retail operations — covering purchases, inventory, and sales across the client's warehouses.  
+- It serves distributors and retail customers managing high-volume transactions.
 
 ---
 
