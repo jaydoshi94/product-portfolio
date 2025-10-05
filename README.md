@@ -12,7 +12,7 @@ Skilled in product ownership, agile delivery, and client collaboration.
 ---
 
 ## Products
-- AI-Powered Business Contract Generator
+- [AI-Powered Business Contract Generator](AI-Powered Business Contract Generator.md)
 - ERP Retail & Operations Management
 - Fundraising Collaboration Platform  
 - AI Chatbot Builder Platform  
