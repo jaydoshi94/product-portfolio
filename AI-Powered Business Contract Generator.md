@@ -1,4 +1,4 @@
-# ClauseCraft — AI-Powered Business Contract Builder
+# AI-Powered Business Contract Builder
 _Transforming the way businesses draft and sign contracts using AI._
 
 ---
