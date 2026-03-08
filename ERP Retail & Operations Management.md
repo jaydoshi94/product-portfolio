@@ -1,16 +1,17 @@
 # ERP Retail & Operations Management Suite
-_Optimizing operational workflows for B2B retail environments._
+_0 to 1 custom solution for high volume operations._
 
 ---
 
-## 🧭 Context
-- ERP product was developed to automate and centralize retail operations — covering purchases, inventory, and sales across the client's warehouses.  
-- It serves distributors and retail customers managing high-volume transactions.
+## 🧭 Project Overview
+This project involved the end-to-end product execution of a custom ERP solution designed to replace a legacy manual/Tally-based system. The client faced significant performance bottlenecks due to high daily data volumes and struggled with disconnected sales data across multiple physical locations and online channels.
 
 ---
 
 ## 🧩 Problem
-Clients operated through manual or semi-automated processes, leading to inefficiencies, stock mismatches, and poor visibility across departments.
+- **Scalability Issues**: The existing Tally ERP became slow and unresponsive when handling large datasets.
+- **Data Silos**: Sales data from physical stores and external marketplaces were not synchronized, leading to inventory inaccuracies.
+- **Lack of Control**: Manual inventory tracking across multiple locations resulted in frequent data mismatches and audit challenges.
 
 ---
 
@@ -21,20 +22,23 @@ Clients operated through manual or semi-automated processes, leading to ineffici
 
 ---
 
-## 💼 My Role
-Owned product roadmap creation & tackled the change requests arising from the clients, collaborated with clients to understand workflows, and designed prototypes using **Lovable** to align with developers. 
+## 🧠 Solution & Approach
+- **Three-Way Match Procurement**: Designed a strict PO → GRN → System Validation workflow to ensure fiscal and inventory integrity.
+- **Automated Fulfillment Engine**: Engineered a pipeline for Sales PO uploads, automated picking/packing list generation (with regeneration capability), and pre-filled invoicing to accelerate the Order-to-Cash cycle.
+- **Omnichannel Synchronization**: Integrated external APIs to centralize real-time sales and inventory data from marketplaces and physical POS systems.
+- **Hybrid RBAC Security**: Implemented a multi layered role based access control system governing modules, specific physical locations, and sensitive managerial actions
 
 ---
 
-## 🧠 Solution & Approach
-- Designed modules for Purchase (Generating PO & GRN for the vendors) Sales, (PO Approval Flow, Picklist, Packing List, GRN, Return to Vendor).  
-- Introduced role-based access and audit tracking.  
-- Defined the detailed purchase & sales flow in Whimsical for maintaining clarity & visibility of each business operation.    
+## 💼 My Role
+- **Logic Mapping**: Developed detailed flowcharts with decision nodes to map every validation and edge case.
+- **Technical Data Specs (Google Sheets)**: Maintained a centralized "Source of Truth" detailing field level requirements and low level validation logic.
+- **Change Management**: Managed scope creep by conducting impact assessments on new requests. I presented the "Priority vs. Timeline" trade-offs to clients, ensuring transparency regarding delivery dates and supporting accurate billable tracking for additional efforts.  
 
 ---
 
 ## 📊 Impact / Results
-- Improved inter-departmental coordination.  
+- Improved inter departmental coordination.  
 - Reduced manual intervention through automation & key alerts. 
 - Accelerated development cycles with clear visual prototypes.   
 
