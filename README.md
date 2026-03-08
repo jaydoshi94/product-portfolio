@@ -1,13 +1,12 @@
 # Jay Doshi <> Product Portfolio
 
 **Associate Product Manager (PSPO I)**  
-_B2B SaaS | AI-driven products | Agile delivery & pre-sales_
+_B2B SaaS Products | PSPO I Certified | Leadership | Team Management | Product Roadmapping | Product Development | Project Execution | AI Whisperer_
 
 ---
 
 ## About Me
-Associate Product Manager with 4.5+ years of experience building B2B SaaS products across Finance, Healthcare, Education, and AI.  
-Skilled in product ownership, agile delivery, and client collaboration.
+Associate Product Manager with 5 years of experience across Business Analysis and Product Management roles in B2B and internal products. Strong background in 0 to 1 product development, requirement structuring under ambiguity, and end-to-end delivery across finance, ERP retail, and AI powered products. Actively involved in pre-sales activities, effort estimation, and solution scoping. Demonstrates ownership beyond delivery through hiring participation, team onboarding, and mentoring of cross-functional teams.
 
 ---
 
@@ -21,6 +20,14 @@ Skilled in product ownership, agile delivery, and client collaboration.
 - [Pre-Sales Framework – Strategic Alignment & Discovery](https://github.com/jaydoshi94/product-portfolio/blob/main/Pre-Sales%20Discovery%20%26%20Strategic%20Framework.md)
 
 ---
+
+## Recognitions
+- Professional Scrum Product Owner I (PSPO I)
+- Leadership Award of the Year (2024)
+- Rising Star of the Year (2022)
+- Highest Referral of the Year (2022)
+
+---  
 
 ## Contact
 📩 Email: [jaydoshionline@gmail.com](mailto:jaydoshionline@gmail.com)  
