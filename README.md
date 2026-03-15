@@ -14,7 +14,7 @@ Associate Product Manager with 5 years of experience across Business Analysis an
 - [ERP Retail Product](https://github.com/jaydoshi94/product-portfolio/blob/main/ERP%20Retail%20%26%20Operations%20Management.md)
 - [Fundraising Collaboration Platform](https://github.com/jaydoshi94/product-portfolio/blob/main/Fundraising%20Collaboration%20Platform.md)  
 - [Healthcare Document Processing using AI](https://github.com/jaydoshi94/product-portfolio/blob/main/AI%20Document%20Classification%20%26%20Extraction.md) 
-- [AI Assisted Mental Health Platform](https://github.com/jaydoshi94/product-portfolio/blob/main/AI%20Assisted%20Mental%20Health%20Platform))
+- [AI Assisted Mental Health Platform](https://github.com/jaydoshi94/product-portfolio/blob/main/AI%20Assisted%20Mental%20Health%20Platform)
 - [AI Chatbot](https://github.com/jaydoshi94/product-portfolio/blob/main/AI%20Chatbot%20Builder.md)  
 - [Language Learning App](https://github.com/jaydoshi94/product-portfolio/blob/main/Language%20Learning%20App.md)    
 - [Pre-Sales Framework – Strategic Alignment & Discovery](https://github.com/jaydoshi94/product-portfolio/blob/main/Pre-Sales%20Discovery%20%26%20Strategic%20Framework.md)
